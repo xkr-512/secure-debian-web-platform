@@ -1,4 +1,4 @@
-# Secure Debian Web Platform (VirtualBox)
+# Secure Debian Web Platform
 
 ## Goal
 Deploy a mini-infrastructure: a core server + a web server + an admin workstation. Security, web (vhosts/HTTPS/reverse proxy), centralized logs, automated backups.
